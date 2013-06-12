@@ -1,10 +1,11 @@
 Android summer development for /r/collaboratecode
----------------------------------------
+=========
 Magic 8-Ball application for Android [4.2] 
-------------------------------------------
-* Acts like the toy.
+--------
+* Acts like the toy.  
+
 To-do:
-----------------------------------
+-------------
 * Choose Android version.
 * Implement onShake() using hardware sensors to detect device shake.
 * Move possible Magic 8-Ball answers to file for reading from.
