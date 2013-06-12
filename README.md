@@ -2,7 +2,7 @@ Android summer development for /r/collaboratecode
 ---------------------------------------
 Magic 8-Ball application for Android [4.2] 
 ------------------------------------------
-- acts like the toy  
+- acts like the toy
 To-do:
 ----------------------------------
 * Choose Android version.
