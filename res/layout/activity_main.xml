@@ -25,6 +25,8 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
+        android:gravity="center"
+        android:maxWidth="100dip"
         android:text="@string/eight_ball_answer" />
 
 </RelativeLayout>
